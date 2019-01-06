@@ -1,6 +1,6 @@
 import React from 'react';
 
-const layout = (props) => (
+const layout = props => (
   <>
     <div>Toolbar, SideDrawer, Backdrop</div>
     <main>
